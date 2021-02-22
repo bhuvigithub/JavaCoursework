@@ -1,2 +1,2 @@
-# BigDataAssignment
-Repository to store the UU file for assignment
+# JavaCoursework
+Repository to store the Uni coursework for Advanced Java.
